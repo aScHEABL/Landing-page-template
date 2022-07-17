@@ -27,6 +27,6 @@ This is the landing page project from [The Odin Project](https://www.theodinproj
 - Better knowledge of HTML and CSS.
 - A lot of minor things.
 
-## Author
+## Author <br>
 
 - Github: [aScHEABL](https://github.com/aScHEABL)
