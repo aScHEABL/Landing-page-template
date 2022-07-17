@@ -1,5 +1,7 @@
 # Landing Page
 
+![Screenshot](/resources/image/Screen%20Shot%202022-07-17%20at%202.13.31%20PM.png)
+
 This is the landing page project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) <br>
 
 [Live Demo](https://ascheabl.github.io/Landing-page-template/) 👈 <br>
