@@ -13,7 +13,7 @@ This is the landing page project from [The Odin Project](https://www.theodinproj
 ## Tools <br>
 
 - Visual Studio Code <br>
-- Linux terminal <br>
+- Linux <br>
 - Git and Github <br>
 
 ## Outcome <br>
